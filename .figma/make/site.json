@@ -1,0 +1,10 @@
+{
+  "description": "Experience a quirky tech apocalypse with interactive features like spooky games, recipes, and an evil chatbot, all wrapped in a playful, eerie design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
